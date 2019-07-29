@@ -1,15 +1,15 @@
 {
-  "name": "WhithCraft",
+  "name": "Gremory",
   "version": "1.0.0",
-  "description": "Un bot creado por DEV: ZeroTwo1",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Elisabeth#8866",
+  "keywords": [],
+  "author": "AlbedoSenpai_",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.5.1"
   }
 }
